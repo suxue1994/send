@@ -6,6 +6,14 @@
 
 ---
 
+## 开发
+* 开发工具： Android Studio
+* 构建工具： Gradle
+* 打包工具：webpack
+
+## 项目描述
+* 文件加密分享，到期即焚
+
 ## Table of Contents
 
 * [What it does](#what-it-does)
